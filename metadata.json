@@ -1,0 +1,6 @@
+{
+  "name": "Estate360",
+  "description": "Plataforma SaaS para criação e gerenciamento de tours virtuais imobiliários 360° com Three.js e IBM Carbon Design System.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
